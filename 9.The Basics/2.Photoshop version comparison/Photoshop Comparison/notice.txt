@@ -1,0 +1,1 @@
+The 'GamerHub' project is not attached to the course because the client owns its copyright. If you want to test the 'Generator' functions you can use any other project with any other layers.
